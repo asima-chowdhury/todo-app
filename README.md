@@ -10,3 +10,7 @@
 * Bootstrap
 * TypeScript
 * Netlify Hosting
+
+
+## Project preview:
+![Design preview of this project](images/preview.png)
