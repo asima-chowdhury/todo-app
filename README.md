@@ -13,4 +13,4 @@
 
 
 ## Project preview:
-![Design preview of this project](images/preview.png)
+![Design preview of this project](https://i.ibb.co/JHMMFSj/preview.png)
